@@ -4,3 +4,4 @@
 - By using virtual machine ip or localhost, we can serve our contents in the browser.
    
 
+![Screenshot from 2024-01-14 10-22-26](https://github.com/amish-git/HAZESOFT-T2/assets/79896219/f1502fd9-11b6-4f85-8efc-d0ba46662388)

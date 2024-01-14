@@ -1,0 +1,25 @@
+---
+ - name: Setting up Nginx Webserver
+   hosts: virtualbox
+   remote_user: hazesoft
+   
+   tasks: 
+     - name: Install nginx server
+       apt:
+          name: nginx
+          state: present
+       become: yes
+
+     - name: Copy our new web contents
+       copy:
+          src: ./site/index.html 
+          dest: /var/www/html/site/index.html
+       become: yes 
+      
+       
+
+
+
+
+
+...

@@ -3,4 +3,4 @@
 - Ansible-playbook is used to automate the configuration deployement into the large set of servers which really automates the hassle work by just writing plays inside the ansible-playbook.
 - By using virtual machine ip or localhost, we can serve our contents in the browser.
    
-https://github.com/amish-git/HAZESOFT-T2/issues/1#issue-2080811171
+

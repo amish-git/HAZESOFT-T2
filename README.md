@@ -10,7 +10,8 @@
 
 ![Screenshot from 2024-01-14 10-27-02](https://github.com/amish-git/HAZESOFT-T2/assets/79896219/b3563914-0d3b-4a91-a48a-a4a502bdeee4)
 
-![Screenshot from 2024-01-14 10-27-33](https://github.com/amish-git/HAZESOFT-T2/assets/79896219/b4
+![Screenshot from 2024-01-14 10-27-33](https://github.com/amish-git/HAZESOFT-T2/assets/79896219/ea70f82f-ed20-48fd-822f-9fcd8b80cc0c)
+
 
 ![Screenshot from 2024-01-14 10-53-13](https://github.com/amish-git/HAZESOFT-T2/assets/79896219/4d634f07-2756-4c59-86fa-cc067d1de6ff)
 74e062-5bf1-4899-b5c6-758fdc58e8aa)
